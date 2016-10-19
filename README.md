@@ -1,2 +1,6 @@
 # hello-world
-hello world repository
+
+Hello world!
+
+This is okiee, and I just started building my GitHub page. 
+
